@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <body>
 <header>repost_mostly</header>
