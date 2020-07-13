@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
+
 <body>
 <header>repost_mostly</hearder>
 <h1>Please Laugh</h1>
