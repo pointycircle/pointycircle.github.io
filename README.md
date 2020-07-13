@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
 </head>
 <body>
 <header>repost_mostly</hearder>
